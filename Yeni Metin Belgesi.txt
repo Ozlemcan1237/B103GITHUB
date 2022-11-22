@@ -2,3 +2,5 @@ GitGitHub ikinci gun ilk deneme
 GitGitHub ikinci gun ikinci deneme
 GitGitHub ikinci gun ucuncu deneme
 GitGitHub ikinci gun Ozlem branchi deneme
+GitGitHub ikinci gun Master branchi deneme
+
